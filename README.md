@@ -47,7 +47,7 @@ cd fake-news-detector
 # 2. Install dependencies
 pip install -r requirements.txt
 
-# 3. Train the model (only needed once)
+# 3. Skip this step if you're just running the app!
 python train.py
 
 # 4. Run the app
