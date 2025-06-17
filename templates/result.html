@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Prediction Result</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/style.css') }}">
+</head>
+<body>
+    <div class="container">
+        <h1>Prediction: <span class="{{ 'real' if prediction == 'REAL' else 'fake' }}">{{ prediction }}</span></h1>
+        <p><strong>Your Input:</strong></p>
+        <div class="result-box">{{ news }}</div>
+        <a href="/">← Try another</a>
+    </div>
+</body>
+</html>
