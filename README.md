@@ -1,5 +1,7 @@
 # 📰 Fake News Detector
 
+🔗 **Live Demo**: [fake-news-detector-edqt.onrender.com](https://fake-news-detector-edqt.onrender.com)
+
 A full-fledged web application built with Flask and Machine Learning to classify news articles as **Fake** or **Real** using Natural Language Processing.
 
 ## 🚀 Features
