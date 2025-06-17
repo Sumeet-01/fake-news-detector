@@ -34,7 +34,10 @@ Source: [Kaggle Fake News Dataset](https://www.kaggle.com/clmentbisaillon/fake-a
 
 ## 🖥️ UI Screenshots
 
+### 🔹 Homepage
 ![Homepage](static/screenshots/homepage.png)
+
+### 🔹 Prediction Result
 ![Result Page](static/screenshots/result.png)
 
 ---
